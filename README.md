@@ -3,4 +3,4 @@
 - I have tried to create a clone of the youtube homepage using **`HTML`** and **`CSS`**.
 - You can hover your mouse over the channel profile image to see the tooltip for channel information. You can also click on the thumbnail or video title to view the original video. However, you cannot interact with the navigation bar or the search bar.
 
-> follow this [link](https://dl02h.github.io/first-webpage/) to check the webpage.
+> follow this [link](https://vumnhg.github.io/first-webpage/) to check the webpage.
